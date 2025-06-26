@@ -1,4 +1,21 @@
 body{
     background-color: black;
     color:white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+    margin: 0 px;
+}
+
+header{
+    border-bottom: solid 2px rgb(4, 0, 255);
+    padding: 20px;
+    font-size: 30px;
+    color: rgb(198, 194, 194);
+}
+
+h1{
+    color: gray;
+}
+
+p{
+    text-align: center;
 }
